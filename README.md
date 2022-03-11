@@ -2,12 +2,12 @@
 - 👀 I’m interested in Breaking and Codeing FrontEnd
 
 ✨MY ABILITIES✨:
-- HTML
-- CSS
-- SCSS
-- JS
-- TS
-- REACT 
+- HTML ✔️
+- CSS ✔️
+- SCSS ✔️
+- JS ✔️
+- TS ✔️
+- REACT ⚛️✔️
 - REDUX <----- 🌱 I’m currently learning
 
 - 📫 How to reach me ...
