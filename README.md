@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @jakubGora
-- 👀 I’m interested in Breaking and Codeing
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Breaking and Codeing FrontEnd
+
+✨MY ABILITIES✨:
+- HTML
+- CSS
+- SCSS
+- JS
+- TS
+- REACT 
+- REDUX <----- 🌱 I’m currently learning
 
 - 📫 How to reach me ...
 Email: jakub_gora@wp.pl
