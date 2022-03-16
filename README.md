@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakubGora
 - 👀 I’m interested in Breaking and Codeing FrontEnd
-
+- My website: https://jakubgora.github.io/
 ✨MY ABILITIES✨:
 - HTML ✔️
 - CSS ✔️
