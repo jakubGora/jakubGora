@@ -7,6 +7,7 @@
 - SCSS ✔️
 - JS ✔️
 - TS ✔️
+- Java ✔️
 - REACT ⚛️✔️
 - REDUX <----- 🌱 I’m currently learning
 
