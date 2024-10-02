@@ -1,15 +1,5 @@
 - 👋 Hi, I’m @jakubGora
 - 👀 I’m interested in Breaking and Codeing FrontEnd
-- My website: https://jakubgora.github.io/
-✨MY ABILITIES✨:
-- HTML ✔️
-- CSS ✔️
-- SCSS ✔️
-- JS ✔️
-- TS ✔️
-- Java ✔️
-- REACT ⚛️✔️
-- REDUX <----- 🌱 I’m currently learning
 
 - 📫 How to reach me ...
 Email: jakub_gora@wp.pl
